@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  },
+  "name": "qrinterface",
+  "version": "1.0.0",
+  "description": "A interface that will be rendered on scanning qr",
+  "main": "src/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReCrafters/QRInterface.git"
+  },
+  "author": "Saksham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ReCrafters/QRInterface/issues"
+  },
+  "homepage": "https://github.com/ReCrafters/QRInterface#readme"
+}
